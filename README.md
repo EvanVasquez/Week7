@@ -14,6 +14,9 @@ Time spent: **6.5** hours.
       Could not record this gif due to an error with apache
   - [x] Steps to recreate:
     - Make a new Post and place the text ```<a onmouseover= "alert('Coolbeans')" > Click The Link </a> ```. You should see something on and alert appear.
+  - [x] Link to affected code: 
+        [Link](https://core.trac.wordpress.org/browser/branches/4.2/src/wp-admin/includes/image.php)
+        
 
 
 2. (Required) Vulnerability: Authenticated Stored Cross-Site Scripting via Image Filename
@@ -38,6 +41,8 @@ Time spent: **6.5** hours.
   
   - [x] Steps to recreate: Attempt to log into admin without the use of the password. after that do the same with an incorrect password
   , finally attempt to log in with user.
+  - [x] Link to affected code: 
+     [Link](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
   
 
        
