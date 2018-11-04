@@ -12,7 +12,7 @@ Objective: Find, analyze, recreate, and document at least 3 vulnerabilities affe
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: Later Version
-  - [x] GIF Walkthrough:  <img src='Error.JPG' title='XSS' width='' alt='' />
+  - [x] GIF Walkthrough:  <img src='coolbeans.gif' title='XSS' width='' alt='' />
   - [x] Steps to recreate:
     - Make a new Post and place the text ```<img src="https://source.unsplash.com/VW2oU66mwbc" onmouseover="alert('Caught you! :D')"> ```. You should see something on and alert appear.
   - [x] Link to affected code: 
