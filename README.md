@@ -2,6 +2,8 @@
 
 Time spent: **6.5** hours.
 
+Objective: Find, analyze, recreate, and document at least 3 vulnerabilities affecting an old version of WordPress
+
 ## Pentesting Report
 
 1. (Required) Vulnerability: Authenticated Stored Cross-site scripting
